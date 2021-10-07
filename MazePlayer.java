@@ -1,5 +1,3 @@
-package mazegame;
-
 // Facilitates the user experience of playing the maze game
 public class MazePlayer {
 	public static void main(String[] args) {
