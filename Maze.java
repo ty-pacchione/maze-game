@@ -1,5 +1,3 @@
-package mazegame;
-
 import javalib.impworld.*;
 import java.awt.Color;
 import javalib.worldimages.*;
